@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+body{
+  font: 400 14px Robot, sans-serif;
+  -webkit-font-smoothing: antialiased; 
+}
+
+.header-site{
+  background-image: url('https://images.pexels.com/photos/373893/pexels-photo-373893.jpeg?cs=srgb&dl=alvorecer-amanhecer-arquitetura-arranha-ceu-373893.jpg&fm=jpg');
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff;
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+.content-site {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.card{
+  margin-left: 20px;
+}
+
+.img-site{
+  background-image: url('https://images.pexels.com/photos/1782440/pexels-photo-1782440.jpeg?cs=srgb&dl=arquitetura-arranha-ceus-centro-da-cidade-chicago-1782440.jpg&fm=jpg');
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.footer-site{
+  background-color: #333333;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
